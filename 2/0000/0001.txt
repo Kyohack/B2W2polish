@@ -1,53 +1,53 @@
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+PRZYWRACANIE
+HP/PP
+PRZYWRACANIE
+STATUSU
+PRZYWRACANIE
+HP/PP
+PRZEDMIOTY WALKI
+POKÉ BALLE
+OSTATNIO UŻYTY PRZEDMIOT
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-つぎへ
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
-／
+x\xf000Ȃ\x0001\x0000
+NASTĘPNY
+PRZYWRACANIE
+HP/PP
+PRZYWRACANIE
+STATUSU
+POKÉ BALLE
+PRZEDMIOTY WALKI
+/
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+UŻYJ
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
-ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
+x\xf000Ȃ\x0001\x0000
+Nie bedzie miało efektu.
+Pole walki jest całe\xfffewe mgle!
+\xf000Ă\x0001\x0000 \xfffewzdyma sie!
+Atak \xf000Ă\x0001\x0000a\xffferośnie!
+Specjalny Atak \xf000Ă\x0001\x0000\xffferośnie!
+Szybkość \xf000Ă\x0001\x0000a\xffferośnie!
+Specjalna Defensywa \xf000Ă\x0001\x0000a\xffferośnie!
+Defensywa\xf000Ă\x0001\x0000a\xffferośnie!
+Celność\xf000Ă\x0001\x0000a\xffferośnie!
+Użyto \xf000ĉ\x0001\x0000!
+Niedobrze! Nie można wycelować, gdy są\xfffedwa Pokémon!
+Nie ma wiecej miejsca w PC!
+Efekt \xf000ć\x0001\x0001a zapobiega\xfffeużyciu przedmiotu na\xf000Ă\x0001\x0000!
+Niedobrze! Nie można wycelować, gdy\xfffePokémon nie jest w zasiegu wzroku!
+Niedobrze! Nie można wycelować, gdy\xfffePokémon nie jest w zasiegu wzroku!
+Jeszcze nie jest załadowany.
+Słowa Juniper odbiły sie echem...\xfffe\xf000Ā\x0001\x0000! Na wszystko jest\xf000븀\x0000odpowiedni czas! Ale nie teraz.
+Nie można wycelować\xfffenie bedąc skupionym
+Urządzenie użyte przez Ghetsisa chroni\xfffeprzed użyciem Poké Balli.
