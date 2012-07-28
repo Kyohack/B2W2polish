@@ -1,8 +1,8 @@
-Rozpocznij walke\xfffew odpowiedniej lokalizacji!
-Prosze czekać.\xfffePrzycisk B: Anuluj
-Prosze wybrać 3\xfffePokémony do walki.\xf000븁\x0000
-Prosze wybrać 4\xfffePokémony do walki.\xf000븁\x0000
-Prosze wybrać 5\xfffePokémonów do walki.\xf000븁\x0000
+Rozpocznij walkę\xfffew odpowiedniej lokalizacji!
+Proszę czekać.\xfffePrzycisk B: Anuluj
+Proszę wybrać 3\xfffePokémony do walki.\xf000븁\x0000
+Proszę wybrać 4\xfffePokémony do walki.\xf000븁\x0000
+Proszę wybrać 5\xfffePokémonów do walki.\xf000븁\x0000
 Czy na pewno chcesz\xfffeprzestać grać?
 Wychodzenie.\xfffeProsze czekać.
-\xf000Ā\x0001\x0000 pokazał ci\xfffeswoją Karte Trenera!
+\xf000Ā\x0001\x0000 pokazał ci\xfffeswoją Kartę Trenera!
