@@ -89,7 +89,7 @@ Ruchy HM nie mogą być\xfffeobecnie zapomniane
 \xf000Ă\x0001\x0000 nie może być zmieniony\xfffe!
 Jajo nie może walczyć!
 Nie możesz wybrać na\xfffeswojego partnera!
-Nie bedzie miało efektu
+Nie będzie miało efektu
 HP \xf000Ă\x0001\x0000 zostało przywrócone\xfffeprzez \xf000Ȃ\x0001\x0001.
 \xf000Ă\x0001\x0000 został uleczony z\xfffetrucizny.
 \xf000Ă\x0001\x0000 został uleczony z\xfffeparaliżu.
@@ -97,10 +97,10 @@ HP \xf000Ă\x0001\x0000 zostało przywrócone\xfffeprzez \xf000Ȃ\x0001\x0001.
 \xf000Ă\x0001\x0000 został rozmrożony.
 PP zostało przywrócone.
 \xf000Ă\x0001\x0000 może znowu\xfffewalczyć!
-\xf000Ă\x0001\x0000\xfffeuleczył sie.
+\xf000Ă\x0001\x0000\xfffeuleczył się.
 \xf000Ă\x0001\x0000 wyszedł ze swojej\xfffekonfuzji.
 \xf000Ă\x0001\x0000 poradził sobie ze swoim\xfffezauroczeniem.
-\xf000Ă\x0001\x0000 obudził sie!
+\xf000Ă\x0001\x0000 obudził się!
 \xf000Ă\x0001\x0000 został już\xfffewybrany.
 Przywrócić jaki ruch?
 Efekt \xf000ć\x0001\x0001przeciwdziała\xfffeużyciu przedmiotu na \xf000Ă\x0001\x0000!
