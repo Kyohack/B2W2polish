@@ -32,9 +32,9 @@ PRZEDMIOTY WALKI
 UŻYJ
 \xf000ĉ\x0001\x0000
 x\xf000Ȃ\x0001\x0000
-Nie bedzie miało efektu.
+Nie będzie miało efektu.
 Pole walki jest całe\xfffewe mgle!
-\xf000Ă\x0001\x0000 \xfffewzdyma sie!
+\xf000Ă\x0001\x0000 \xfffewzdyma się!
 Atak \xf000Ă\x0001\x0000a\xffferośnie!
 Specjalny Atak \xf000Ă\x0001\x0000\xffferośnie!
 Szybkość \xf000Ă\x0001\x0000a\xffferośnie!
@@ -43,11 +43,11 @@ Defensywa\xf000Ă\x0001\x0000a\xffferośnie!
 Celność\xf000Ă\x0001\x0000a\xffferośnie!
 Użyto \xf000ĉ\x0001\x0000!
 Niedobrze! Nie można wycelować, gdy są\xfffedwa Pokémon!
-Nie ma wiecej miejsca w PC!
+Nie ma więcej miejsca w PC!
 Efekt \xf000ć\x0001\x0001a zapobiega\xfffeużyciu przedmiotu na\xf000Ă\x0001\x0000!
-Niedobrze! Nie można wycelować, gdy\xfffePokémon nie jest w zasiegu wzroku!
-Niedobrze! Nie można wycelować, gdy\xfffePokémon nie jest w zasiegu wzroku!
+Niedobrze! Nie można wycelować, gdy\xfffePokémon nie jest w zasięgu wzroku!
+Niedobrze! Nie można wycelować, gdy\xfffePokémon nie jest w zasięgu wzroku!
 Jeszcze nie jest załadowany.
 Słowa Juniper odbiły sie echem...\xfffe\xf000Ā\x0001\x0000! Na wszystko jest\xf000븀\x0000odpowiedni czas! Ale nie teraz.
-Nie można wycelować\xfffenie bedąc skupionym
+Nie można wycelować\xfffenie będąc skupionym
 Urządzenie użyte przez Ghetsisa chroni\xfffeprzed użyciem Poké Balli.
