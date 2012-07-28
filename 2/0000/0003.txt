@@ -1,17 +1,17 @@
-Czy chcesz zapisać ostatnią walke\xfffejako twoje Battle Video?
+Czy chcesz zapisać ostatnią walkę\xfffejako twoje Battle Video?
 Tak
 Nie
-Ostatnia walka nie bedzie zapisana.\xfffeOK?
+Ostatnia walka nie będzie zapisana.\xfffeOK?
 Tak
 Nie
-Czy zgadzasz sie, by nadpisać ostatnie\xfffeBattle Video?
+Czy zgadzasz się, by nadpisać ostatnie\xfffeBattle Video?
 Tak
 Nie
 Zapisywanie twojego Battle Video...\xfffeNie wyłączaj gry.
 Battle Video zostało zapisane.
 Wystąpił błąd.\xfffeTwoje Battle Video nie mogło zostać zapisane.
-Oczekiwanie na decyzje przyjaciela...\xfffeProsze czekać.
-Nie możesz zapisać filmu\xfffez tym trenerem... Prosze czekać.
+Oczekiwanie na decyzję przyjaciela...\xfffeProszę czekać.
+Nie możesz zapisać filmu\xfffez tym trenerem... Proszę czekać.
 Nie można nagrać filmu\xfffez tym trenerem.
 Ostatnia walka nie mogła zostać zapisana.
 Limit czasowy:
